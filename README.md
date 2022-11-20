@@ -6,7 +6,7 @@
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Organizations including, **[Renovate](https://github.com/renovatebot/renovate)**. I am really enthusiastic about learning new technology. In 2022, I learned **React-Native**, **GraphQL**.
 
-📚 I love reading books on **personal development** & **financial literacy**. My favorite ones are **Atomic Habitst** by _James Clear_ in the genre of personal development and **Value Investing and Behavioral Finance** by _Parag Parikh_ in the genre of financial literacy.
+📚 I love reading books on **personal development** & **financial domain**. My favorite ones are **Atomic Habitst** by _James Clear_ in the genre of personal development and **Value Investing and Behavioral Finance** by _Parag Parikh_ in the genre of financial literacy.
 
 ✈️ I love **traveling** too. I have been on solo trips to **Bangalore** in _2007_ and to **Meghalaya, India** in _2022_.
 
