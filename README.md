@@ -42,7 +42,7 @@
 </a>
 
 <p align="center">
-  <img align="center" width="400" src="https://github.com/souravdasslg/souravdasslg/blob/master/github-metrics.svg">
+  <img align="center" width="400" src="https://raw.githubusercontent.com/souravdasslg/souravdasslg/refs/heads/main/github-metrics.svg">
 </p>
 
 <a href="https://1xengineer.com/?ref=github">
