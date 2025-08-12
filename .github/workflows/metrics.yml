@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "*/1 * * * *"}]
   push: {branches: "master"}
 jobs:
   github-metrics:
@@ -16,7 +16,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
           # Options
-          user: saseungmin
+          user: souravdasslg
           template: classic
           base: header 
           config_timezone: Asia/Seoul
