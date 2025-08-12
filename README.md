@@ -34,27 +34,27 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)
 
 
+
+
 ## 📈 Stats
 <a href="https://1xengineer.com/?ref=github">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=souravdasslg&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
 </a>
+
+<p align="center">
+  <img align="center" width="400" src="https://github.com/souravdasslg/souravdasslg/blob/master/github-metrics.svg">
+</p>
 
 <a href="https://1xengineer.com/?ref=github">
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravdasslg&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
 <a href="https://1xengineer.com/?ref=github">
-  <img height="137px" width="1000px" src="https://github-readme-streak-stats.herokuapp.com?user=souravdasslg&theme=blue-green&hide_border=true" />
+  <img height="137px" width="1000px" src="https://github-readme-streak-stats.herokuapp.com?user=souravdasslg&theme=cobalt&hide_border=true" />
 </a>
 
 <br>
 
 
-<p align="center"> 
-  Visitor count<br>
-    <img src="https://profile-counter.glitch.me/souravdasslg/count.svg" />
-</p>
-
 
 ![Gmail](https://img.shields.io/badge/-Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white) 
-
