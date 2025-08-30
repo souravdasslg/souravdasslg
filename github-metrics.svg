@@ -66,17 +66,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 766kb of code in 737 edited files across 87 commits over last 14 days</small>
+                <small>estimation from 767kb of code in 742 edited files across 89 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="391.46797287113793" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="391.46797287113793" y="0" width="57.36588079089963" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="448.83385366203754" y="0" width="7.150823554742169" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.98467721677974" y="0" width="2.623784404492769" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.60846162127245" y="0" width="1.391538378727527" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="391.50213945747805" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="391.50213945747805" y="0" width="57.33728107772705" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.83942053520514" y="0" width="7.147258517479709" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="455.98667905268485" y="0" width="2.622476318913665" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.6091553715985" y="0" width="1.3908446284015223" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
